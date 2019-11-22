@@ -1,0 +1,49 @@
+.firstSlide {
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+.firstSlide h1.ui.header {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.firstSlide p {
+  text-align: center;
+}
+
+.secondSlide {
+  background-image: linear-gradient(135deg, #2884ff 0%, #21767c 69%, #00706d 89%) !important;
+  padding-top: 8rem;
+  padding-bottom: 9rem;
+}
+
+.secondSlide p {
+  color: #fff;
+}
+
+.thirdSlide {
+  background-image: linear-gradient(135deg, #cb0384 0%, #21767c 69%, #02a7ac 89%) !important;
+  padding-top: 8rem;
+  padding-bottom: 9rem;
+}
+
+.thirdSlide p {
+  color: #fff;
+}
+
+.MainSlideTwo .eight.wide.computer.sixteen.wide.mobile.eight.wide.tablet.column {
+  padding: 0px;
+  margin: 0px;
+}
+
+.fourthSlide {
+  background-image: linear-gradient(135deg, #182a0f 0%, #218aae 69%, #20a7ac 89%) !important;
+  padding-top: 8rem;
+  padding-bottom: 9rem;
+}
+
+.fourthSlide p {
+  color: #fff;
+}
+/*# sourceMappingURL=Slide.css.map */

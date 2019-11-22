@@ -1,0 +1,19 @@
+.mainBanner {
+  img.ui.fluid.image {
+    height: 650px;
+  }
+}
+
+.bannerText {
+  h1.ui.header {
+    position: absolute;
+    top: 47%;
+    color: white;
+  }
+  button.ui.massive.button {
+    background: #031c22;
+    color: white;
+    position: absolute;
+    top: 55%;
+  }
+}
